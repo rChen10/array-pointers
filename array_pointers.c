@@ -30,7 +30,7 @@ int main(){
   }
 
   //print arr2
-  printf("The original array:\n");
+  printf("The second array:\n");
   for(i = 0; i < 10; i++){
     printf("arr2[%d]: ", i);
     printf("%d\n", arr2[i]);
